@@ -119,11 +119,9 @@ NLP-powered Machine Learning system that classifies news articles as Real or Fak
 
 ---
 
-# 🔥 GITHUB STREAK
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ss18562&theme=chartreuse-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ss18562&theme=highcontrast&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
 
 </div>
 
