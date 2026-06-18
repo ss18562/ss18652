@@ -9,11 +9,10 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student (3rd Year Completed) | CGPA: **7.89**
+- 🎓 B.Tech CSE Student 
 - 💻 Passionate about Full Stack Web Development and Software Engineering
 - 🤖 Exploring Artificial Intelligence, Machine Learning & Data Analytics
 - 📊 Building Real-World ML Projects using Python and Scikit-Learn
-- 🏆 Completed a **Software Engineering Internship at Bluestock**
 - 🧠 Consistently solving DSA and LeetCode problems
 - ☁️ Certified in Machine Learning, Cloud Computing & Web Development
 - 🌱 Goal: Become an Industry-Ready Software Engineer and AI Developer
@@ -42,14 +41,17 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 Projects
 
-```text
-✔ Data Structures & Algorithms
-✔ Machine Learning & Artificial Intelligence
-✔ Python for Data Science
-✔ Full Stack Web Development
-✔ Cloud Computing
-✔ System Design Fundamentals
-✔ Advanced SQL & Databases
-✔ Software Development Best Practices
+### 🎓 Student Performance Prediction System
+- Developed an end-to-end Machine Learning system to predict student academic performance using attendance, study hours, assignment scores, and previous test records.
+- Performed data preprocessing, feature engineering, model training, and evaluation using Machine Learning algorithms.
+- Built an interactive Streamlit web application for real-time student performance prediction and analytics.
+- **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Streamlit
+
+### 📰 Fake News Detection System
+- Built an NLP-based machine learning model to classify news articles as Fake or Real.
+- Applied text preprocessing techniques including tokenization, stopword removal, and TF-IDF vectorization.
+- Trained and evaluated classification models to achieve accurate predictions on news datasets.
+- Deployed an interactive Streamlit application for real-time fake news detection.
+- **Tech Stack:** Python, NLP, Scikit-Learn, TF-IDF, Streamlit
