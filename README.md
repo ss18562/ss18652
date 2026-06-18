@@ -20,45 +20,61 @@
 
 # 🚀 ABOUT ME
 
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│            AI • ML • DATA SCIENCE • WEB DEVELOPMENT          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 <table>
 <tr>
+
 <td width="50%">
 
-🎓 Computer Science Student
+### 👨‍💻 Developer Profile
 
-🤖 Passionate about AI & Machine Learning
+🎓 B.Tech Computer Science Student
 
-💻 Building real-world applications using Python
+🤖 AI & Machine Learning Enthusiast
 
-📚 Learning ML, DSA, System Design & Cloud
+📊 Data Analytics Explorer
 
-🎯 Goal: Become an AI/ML Engineer
+🌐 Full-Stack Web Development Learner
+
+💡 Passionate about solving real-world problems
+
+🚀 Building intelligent applications with Python
 
 </td>
 
 <td width="50%">
 
-🌱 Currently Working On:
-- Student Performance Prediction System
-- Fake News Detection System
+### 🎯 Current Focus
 
-🏆 Interests:
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Analytics
+📚 Data Structures & Algorithms
+
+☁️ Cloud Computing
+
+🏗️ System Design
+
+🧠 Machine Learning & Deep Learning
+
+📈 Data Science & Analytics
+
+🏆 Goal: AI/ML Engineer & Software Developer
 
 </td>
+
 </tr>
 </table>
 
----
-
-# ⚒️ TECH STACK
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pandas,numpy,sklearn,git,github,vscode" />
+### ⚡ "Turning Data Into Intelligence"
 
 </div>
 
