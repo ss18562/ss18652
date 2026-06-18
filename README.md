@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟩 SHARAD SAHA
+#  SHARAD SAHA
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer;Always+Learning+New+Technologies" />
 
